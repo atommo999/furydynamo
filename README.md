@@ -7,7 +7,7 @@ The design here is for the rotor and stator- the enclosure will need to be desig
 
 The housing typically follows this "sandwich" architecture:
 
-###The Outer Cylinder (The Jacket)
+<h3>The Outer Cylinder (The Jacket)</h3>
 
 The stator  itself often acts as the primary inner wall, but it is slid into a Stainless Steel 316 outer sleeve. 
 
@@ -15,7 +15,7 @@ Purpose: Since Galinstan is incredibly heavy (density approx 6.44g/cm^3), the ou
 
 Insulation: The stator's outer surface must be insulated from the steel jacket (often with a thin Kapton tape or epoxy layer) to ensure the current follows the copper grooves  rather than shorting through the steel.
 
-###The End Caps (The Seals)
+<h3>The End Caps (The Seals)</h3>
 This is the most critical part of the container. You need two heavy-duty steel plates bolted to the ends of the stator assembly.
 
 Drive Side: Contains a hole for the rotor shaft. This requires a high-speed mechanical seal or a double O-ring setup to prevent Galinstan from spraying out at 1500+ RPM.
@@ -24,7 +24,7 @@ Dead Side: Usually solid, housing a bearing to support the other end of the roto
 
 Expansion Chamber: Galinstan expands when it gets hot from friction. The container usually has a small reservoir or "header tank" at the top to allow for volume changes without blowing the seals.
 
-###The Galinstan "Fill Path"
+<h3>The Galinstan "Fill Path"</h3>
 
 To visualize the container, you have to picture where the Galinstan actually goes:
 
