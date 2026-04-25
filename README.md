@@ -22,7 +22,7 @@ This is the most critical part of the container. You need two heavy-duty steel p
 
 <b>Dead Side:</b> Usually solid, housing a bearing to support the other end of the rotor shaft.
 
-<b>Expansion Chamber: Galinstan expands when it gets hot from friction. The container usually has a small reservoir or "header tank" at the top to allow for volume changes without blowing the seals.
+<b>Expansion Chamber:</b> Galinstan expands when it gets hot from friction. The container usually has a small reservoir or "header tank" at the top to allow for volume changes without blowing the seals.
 
 <h3>The Galinstan "Fill Path"</h3>
 
