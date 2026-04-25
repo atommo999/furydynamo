@@ -16,6 +16,7 @@ The stator itself often acts as the primary inner wall, but it is slid into a St
 <b>Insulation:</b> The stator's outer surface must be insulated from the steel jacket (often with a thin Kapton tape or epoxy layer) to ensure the current follows the copper grooves  rather than shorting through the steel.
 
 <h3>The End Caps (The Seals)</h3>
+
 This is the most critical part of the container. You need two heavy-duty steel plates bolted to the ends of the stator assembly.
 
 <b>Drive Side:</b> Contains a hole for the rotor shaft. This requires a high-speed mechanical seal or a double O-ring setup to prevent Galinstan from spraying out at 1500+ RPM.
@@ -28,4 +29,8 @@ This is the most critical part of the container. You need two heavy-duty steel p
 
 To visualize the container, you have to picture where the Galinstan actually goes:
 
-<b>The Grooves:</b> The 20 rotor grooves and 23 stator grooves must be completely flooded. The Gap: The 1 mm space between the components. The Vacuum Purge: The container should have two ports: one at the bottom for filling and one at the highest point. Crucial Step: You must pull a vacuum on the container before injecting the Galinstan. If air bubbles are trapped in your 23 stator grooves, the electrical path will be broken, and the dynamo will never "start."
+<b>The Grooves:</b> The 20 rotor grooves and 23 stator grooves must be completely flooded. 
+
+<b>The Gap:</b> The 1 mm space between the components. 
+
+<b>The Vacuum Purge:</b> The container should have two ports: one at the bottom for filling and one at the highest point. Crucial Step: You must pull a vacuum on the container before injecting the Galinstan. If air bubbles are trapped in your 23 stator grooves, the electrical path will be broken, and the dynamo will never "start."
